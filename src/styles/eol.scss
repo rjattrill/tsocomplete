@@ -1,0 +1,86 @@
+
+@import "~bootstrap/scss/bootstrap";
+
+$eol-blue-color: #0077C8;
+$eol-orange-color: #ED9B33;
+
+.eol-header {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.eol-blue-heading {
+  background-color: $eol-blue-color;
+  color: #FFFFFF;
+  font-size: 3rem;
+  line-height: 1em;
+  text-align: left;
+  font-family: 'Noto Serif', serif;
+  font-style: italic;
+  padding: 90px 60px 20px;
+}
+
+.eol-blue-body {
+  background-color: $eol-blue-color;
+  color: #FFFFFF;
+  text-align: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2rem;
+  padding: 10px 60px 50px;
+}
+
+.eol-orange-header {
+  background-color: $eol-orange-color;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  padding: 10px 0 5px;
+}
+
+// A Column with no padding
+.full-column {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.full-column-blue {
+  padding-left: 0;
+  padding-right: 0;
+  background-color: $eol-blue-color;
+  color:  white;
+}
+
+.full-column-orange {
+  padding-left: 0;
+  padding-right: 0;
+  background-color: $eol-orange-color;
+  color:  white;
+}
+
+.l2-heading {
+  padding-top: 60px;
+  padding-left: 60px;
+  font-family: 'Montserrat', sans-serif;
+  //font-weight: bold;
+  font-size: 1.6rem;
+  text-align: left;
+}
+
+.hr-h2-separator {
+  height: 3px;
+  width: 50px;
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 0;
+  padding-left: 60px;
+}
+
+.body {
+  text-align: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2rem;
+  padding: 10px 60px 50px;
+}
+
+
+
