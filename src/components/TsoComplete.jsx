@@ -9,16 +9,15 @@ import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 
+import video from '../assets/TsoCompleteDraft1.mp4'
+
+
 type
 Props = {
 
 }
 
 export function TsoComplete(props: Props) {
-
-    const videoPlayerSrc = "../video/TsoCompleteDraft1/TsoCompleteDraft1_player.html?embedIFrameId=embeddedSmartPlayerInstance"
-
-    // const videoPlayerSrc = "C:/Users/ross.attrill/OneDrive - Energy One Group/Marketing/TsoInABox/TsoIntroVideo/Videos/TsoCompleteDraft1/TsoCompleteDraft1.html"
 
     return (
         <div >
@@ -27,16 +26,9 @@ export function TsoComplete(props: Props) {
             <Container fluid>
                 <Row>
                     <Col className="full-column">
-                        <img src={GasPipelineWShip} width={'100%'} alt="Pipeline being built for LNG export/import"/>
-                        {/*<iframe title="TSO Complete Video"*/}
-                        {/*        className="tscplayer_inline"*/}
-                        {/*        id="embeddedSmartPlayerInstance"*/}
-                        {/*        src={videoPlayerSrc}*/}
-                        {/*        scrolling="no"*/}
-                        {/*        frameBorder="0"*/}
-                        {/*        webkitallowfullscreen="true"*/}
-                        {/*        mozallowfullscreen="true"*/}
-                        {/*        allowFullScreen/>*/}
+                        <video width={'100%'} height={'100%'} poster={GasPipelineWShip} controls>
+                            <source src={video} type="video/mp4" />
+                        </video>
                     </Col>
                     <Col className="full-column-blue">
                         <div className="eol-blue-heading">
