@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b00c70024a916f27e2183d6c76db7dac",
+    "revision": "daa12bf49277fbd2b8926c1aa522fe40",
     "url": "/tsocomplete/index.html"
   },
   {
-    "revision": "1865f94f3404e29eaba3",
+    "revision": "4b96257386f7ea361a6a",
     "url": "/tsocomplete/static/css/main.74f0df03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tsocomplete/static/js/2.fb7f56f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1865f94f3404e29eaba3",
-    "url": "/tsocomplete/static/js/main.69c5d526.chunk.js"
+    "revision": "4b96257386f7ea361a6a",
+    "url": "/tsocomplete/static/js/main.ef52e144.chunk.js"
   },
   {
     "revision": "873e84e398417175a506",

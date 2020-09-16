@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tsocomplete/static/css/main.74f0df03.chunk.css",
-    "main.js": "/tsocomplete/static/js/main.69c5d526.chunk.js",
-    "main.js.map": "/tsocomplete/static/js/main.69c5d526.chunk.js.map",
+    "main.js": "/tsocomplete/static/js/main.ef52e144.chunk.js",
+    "main.js.map": "/tsocomplete/static/js/main.ef52e144.chunk.js.map",
     "runtime-main.js": "/tsocomplete/static/js/runtime-main.91c1800c.js",
     "runtime-main.js.map": "/tsocomplete/static/js/runtime-main.91c1800c.js.map",
     "static/js/2.fb7f56f4.chunk.js": "/tsocomplete/static/js/2.fb7f56f4.chunk.js",
     "static/js/2.fb7f56f4.chunk.js.map": "/tsocomplete/static/js/2.fb7f56f4.chunk.js.map",
     "index.html": "/tsocomplete/index.html",
-    "precache-manifest.488bb776da9579d5e861db520f9bfdb1.js": "/tsocomplete/precache-manifest.488bb776da9579d5e861db520f9bfdb1.js",
+    "precache-manifest.ff2dfd12029b362669be4ecbb29915ee.js": "/tsocomplete/precache-manifest.ff2dfd12029b362669be4ecbb29915ee.js",
     "service-worker.js": "/tsocomplete/service-worker.js",
     "static/css/main.74f0df03.chunk.css.map": "/tsocomplete/static/css/main.74f0df03.chunk.css.map",
     "static/js/2.fb7f56f4.chunk.js.LICENSE.txt": "/tsocomplete/static/js/2.fb7f56f4.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.91c1800c.js",
     "static/js/2.fb7f56f4.chunk.js",
     "static/css/main.74f0df03.chunk.css",
-    "static/js/main.69c5d526.chunk.js"
+    "static/js/main.ef52e144.chunk.js"
   ]
 }
