@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tsocomplete/precache-manifest.aade21e96058c1fb921b57119f709d8e.js"
+  "/tsocomplete/precache-manifest.7196b8df2745f766e8709bbdfbb3b27f.js"
 );
 
 self.addEventListener('message', (event) => {
